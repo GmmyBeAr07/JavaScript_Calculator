@@ -1,0 +1,16 @@
+body {
+    background:linear-gradient(0deg, rgba(0, 0, 0, 0.6), rgba(0, 0, 0, 0.6)), url(/stretched-1920-1080-1101595.jpg);
+    background-repeat: no-repeat;
+    background-attachment: fixed; 
+    backface-visibility:visible;
+    background-size: 100% 100%;
+  }
+
+.btn.btn{
+      padding: 25px;
+      font-size: 30px;
+  }
+
+.output {
+
+}
